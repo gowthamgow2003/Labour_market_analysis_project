@@ -1,19 +1,17 @@
 
-
-
-# Project Background
+# Labor Market Intelligence & Workforce Planning Report (2024–2034)
 
 ## Project Background
 
 The labor market is continuously evolving due to technological advancements, demographic changes, and shifting industry demands. Organizations, HR professionals, workforce planners, educational institutions, and policymakers rely on accurate labor market intelligence to understand which occupations are expected to grow, the skills employers value most, and how workforce demand is projected to change over time. Making informed decisions about hiring, workforce development, talent investment, and strategic planning requires reliable, data-driven insights.
 
-This project utilizes **official U.S. government datasets** from the **U.S. Bureau of Labor Statistics (BLS) Employment Projections (2024–2034)** and the **O*NET Database**, which provide comprehensive occupational information, employment projections, wage statistics, education requirements, skills, technologies, and career pathway data. By integrating these trusted public datasets, the project delivers a comprehensive view of current and future labor market trends.
+This project utilizes **official U.S. government datasets** from the **U.S. Bureau of Labor Statistics (BLS) Employment Projections (2024–2034)** and the **O*NET Database**, which provide comprehensive occupational information, employment projections, wage statistics, education requirements, skills, technologies, and career pathway data. By integrating these trusted public datasets, the project delivers a comprehensive view of current and future labor market trends. 
 
 The **Labor Market Analytics Report** transforms complex workforce data into meaningful business insights through interactive visualizations and analytical reporting. The report examines employment growth, average annual job openings, annual wages, education requirements, job preparation levels, software skills, in-demand skills, hot technologies, knowledge areas, and career pathways to support evidence-based decision-making.
 
 By converting publicly available government data into actionable workforce intelligence, this report enables business leaders, HR teams, workforce planners, educators, and government agencies to identify high-growth occupations, evaluate hiring demand, benchmark compensation, understand emerging skill requirements, and develop strategic workforce planning initiatives aligned with projected labor market trends between **2024 and 2034**.
 
-# Key Metrics
+## Key Metrics
 
 * **Employment Growth Rate (%)** – Measures the projected percentage growth in employment between **2024 and 2034**, helping identify occupations expected to experience the fastest workforce expansion.
 
@@ -26,7 +24,7 @@ By converting publicly available government data into actionable workforce intel
 
 
 
-# Executive Summary
+## Executive Summary
 
 <img width="1000" height="500" alt="emp growth %" src="https://github.com/user-attachments/assets/fea98bac-f65b-4d7d-b5b2-dc2400b41eb5" />
 
