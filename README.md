@@ -20,9 +20,10 @@ By converting publicly available government data into actionable workforce intel
 * **Average Annual Wage (2024)** – Displays the average annual earnings across occupations, enabling compensation benchmarking and analysis of high- and low-paying career paths.
 
 * **Occupations Requiring In-Demand Skills** – Counts the number of occupations requiring skills currently identified as in demand, highlighting workforce readiness and the importance of upskilling for future employment.
+
+The report analyzes a total of 963 occupations across the U.S. labor market using official BLS and O*NET government datasets.
+
 <img width="700" height="300" alt="KPI " src="https://github.com/user-attachments/assets/8c21389e-2166-4c8d-8d9d-80a2ee80c2a6" />
-
-
 
 ## Executive Summary
 
