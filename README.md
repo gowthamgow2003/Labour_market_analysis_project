@@ -1,1 +1,7 @@
-# Labour_market_analysis_project
+Project Background
+
+The labor market is evolving rapidly due to technological advancements, demographic shifts, and changing industry demands. Organizations, HR professionals, workforce planners, and policymakers require reliable labor market intelligence to understand which occupations are expected to grow, the skills employers value most, and how workforce demand is expected to change over time. Making informed decisions about hiring, workforce development, and talent investment requires access to accurate, data-driven insights.
+
+This project leverages publicly available data from the **U.S. Bureau of Labor Statistics (BLS) Employment Projections (2024–2034)** and the **O*NET Database** to build an interactive Labor Market Analytics Dashboard. The dashboard integrates employment projections, annual wages, education requirements, job preparation levels, software skills, in-demand skills, hot technologies, knowledge areas, and career pathways into a unified business intelligence solution.
+
+By transforming raw labor market data into meaningful visualizations and executive-level insights, the project enables stakeholders to identify high-growth occupations, evaluate hiring demand, benchmark compensation, understand emerging skill requirements, and support strategic workforce planning. The dashboard serves as a decision-support tool for businesses, HR teams, educational institutions, and government agencies seeking to align talent strategies with future labor market trends between **2024 and 2034**.
